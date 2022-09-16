@@ -1,0 +1,46 @@
+.first div input{
+    height: 7vh;
+    width: 120%;
+    border: .3px solid #a39f9f;
+}
+.first div label{
+    font-size: 18px;
+    font-weight: 400;
+}
+.second label{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;   
+    margin-bottom: 10px; 
+}
+.second input{    
+    height: 7vh;
+    width: 92.5%;
+    border: .3px solid #a39f9f;
+}
+.second textarea{
+    width: 92.5%;
+    height: 30vh;
+    border: .3px solid #a39f9f;
+}
+.first2 h4{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 25px;
+}
+.first2 h6{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--primary);
+}
+.form3 h3{
+    font-size: 20px;
+}
+.form3 p{ 
+    line-height: 1.7;
+    font-weight: 300;
+    font-size: 1rem;
+    color: var(--primary);
+}
